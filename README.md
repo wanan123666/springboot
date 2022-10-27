@@ -51,6 +51,7 @@
 - 留言页面支持邮件回复通知，开启后评论，当评论被回复后会收到一封邮件，邮件支持表情显示
 
   ![1585082833194](http://cdn.xiongsihao.com/1585082833194.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwanan123666%2Fspringboot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwanan123666%2Fspringboot?ref=badge_shield)
 
   ![1585083340531](http://cdn.xiongsihao.com/1585083340531.png)
 
@@ -137,3 +138,6 @@
 如出现任何问题，欢迎[点击此处](http://xiongsihao.com/Messages)留言
 
 --------------------------------------------------------------最后...如果你觉得对你有帮助，求star
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwanan123666%2Fspringboot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwanan123666%2Fspringboot?ref=badge_large)
